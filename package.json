@@ -12,9 +12,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "volar-service-vetur": "latest",
     "vue": "^3.3.2",
-    "vue-router": "^4.2.0",
-    "volar-service-vetur": "latest"
+    "vue-i18n": "^9.2.2",
+    "vue-router": "^4.2.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.33.0",
